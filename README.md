@@ -1,6 +1,6 @@
 # Simple Shell README
 
-## Synopsis
+## Synopsis Intro
 
 This project entails a simple implementation of the LINUX shell that has the same output as sh
 
